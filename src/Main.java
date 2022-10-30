@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+    //        Задача 1
         System.out.println("Задание 1");
         double dog=8;
         var cat=3.6;
@@ -7,6 +8,7 @@ public class Main {
         System.out.println(dog);
         System.out.println(cat);
         System.out.println(paper);
+//        Задача 2
 
         System.out.println("Задание 2");
         dog=dog+4;
@@ -15,7 +17,7 @@ public class Main {
         System.out.println(dog);
         System.out.println(cat);
         System.out.println(paper);
-
+    //        Задача 3
         System.out.println("Задание 3");
         dog = dog-3.6;
         cat=cat-1.6;
@@ -23,7 +25,7 @@ public class Main {
         System.out.println(dog);
         System.out.println(cat);
         System.out.println(paper);
-
+        //        Задача 4
         System.out.println("Задание 4");
         var friend=19;
         System.out.println(friend);
@@ -31,7 +33,7 @@ public class Main {
         System.out.println(friend);
         friend=friend/7;
         System.out.println(friend);
-
+//        Задача 5
         System.out.println("Задание 5");
         var frog=3.5;
         System.out.println(frog);
@@ -41,7 +43,7 @@ public class Main {
         System.out.println(frog);
         frog=frog+4;
         System.out.println(frog);
-
+//        Задача 6
         System.out.println("Задание 6");
         var boxer1=78.2;
         var boxer2=82.7;
@@ -49,11 +51,11 @@ public class Main {
         var weightDifference=boxer2-boxer1;
         System.out.println(totalWeight);
         System.out.println(weightDifference);
-
+//        Задача 7
         System.out.println("Задание 7");
         weightDifference=boxer2%boxer1;
         System.out.println(weightDifference);
-
+//        Задача 8
         System.out.println("Задание 8");
         var totalHours=640;
         var workingHours=8;
